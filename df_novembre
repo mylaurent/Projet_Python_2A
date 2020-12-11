@@ -1,0 +1,301 @@
+,Unnamed: 0,Title,Type,Netflix Excl.,Netflix Release Date,Days In Top 10,Viewer- Ship Score,Measure Date
+0,1,Holidate,Movie,Yes,"Oct 28, 2020",4,40,2020/11/01
+1,2,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",9,77,2020/11/01
+2,3,Rogue City,Movie,Yes,"Oct 30, 2020",2,11,2020/11/01
+3,4,His House,Movie,Yes,"Oct 30, 2020",2,8,2020/11/01
+4,5,Hubie Halloween,Movie,Yes,"Oct 7, 2020",18,140,2020/11/01
+5,6,Secrets of the Saqqara Tomb,Movie,Yes,"Oct 28, 2020",3,15,2020/11/01
+6,7,Over the Moon,Movie,Yes,"Oct 23, 2020",9,64,2020/11/01
+7,8,The Haunting of Bly Manor,TV Show,Yes,"Oct 9, 2020",23,177,2020/11/01
+8,9,Blood of Zeus,TV Show,Yes,"Oct 27, 2020",4,24,2020/11/01
+9,10,Barbarians,TV Show,Yes,"Oct 23, 2020",9,56,2020/11/01
+10,1,Holidate,Movie,Yes,"Oct 28, 2020",5,50,2020/11/02
+11,2,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",10,86,2020/11/02
+12,3,Rogue City,Movie,Yes,"Oct 30, 2020",3,19,2020/11/02
+13,4,His House,Movie,Yes,"Oct 30, 2020",3,15,2020/11/02
+14,5,Secrets of the Saqqara Tomb,Movie,Yes,"Oct 28, 2020",4,21,2020/11/02
+15,6,Over the Moon,Movie,Yes,"Oct 23, 2020",10,69,2020/11/02
+16,7,The Haunting of Bly Manor,TV Show,Yes,"Oct 9, 2020",24,181,2020/11/02
+17,8,Barbarians,TV Show,Yes,"Oct 23, 2020",10,59,2020/11/02
+18,9,Blood of Zeus,TV Show,Yes,"Oct 27, 2020",5,26,2020/11/02
+19,10,Hubie Halloween,Movie,Yes,"Oct 7, 2020",19,141,2020/11/02
+20,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",11,96,2020/11/03
+21,2,Holidate,Movie,Yes,"Oct 28, 2020",6,59,2020/11/03
+22,3,Knock Knock,Movie,,,1,8,2020/11/03
+23,4,Rogue City,Movie,Yes,"Oct 30, 2020",4,26,2020/11/03
+24,5,Cocomelon,TV Show,,"Jun 1, 2020",45,101,2020/11/03
+25,6,Over the Moon,Movie,Yes,"Oct 23, 2020",11,74,2020/11/03
+26,7,His House,Movie,Yes,"Oct 30, 2020",4,19,2020/11/03
+27,8,The Haunting of Bly Manor,TV Show,Yes,"Oct 9, 2020",25,184,2020/11/03
+28,9,Grand Army,TV Show,Yes,"Oct 16, 2020",11,36,2020/11/03
+29,10,Secrets of the Saqqara Tomb,Movie,Yes,"Oct 28, 2020",5,22,2020/11/03
+30,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",12,106,2020/11/04
+31,2,Holidate,Movie,Yes,"Oct 28, 2020",7,68,2020/11/04
+32,3,Knock Knock,Movie,,,2,16,2020/11/04
+33,4,Rogue City,Movie,Yes,"Oct 30, 2020",5,33,2020/11/04
+34,5,Cocomelon,TV Show,,"Jun 1, 2020",46,107,2020/11/04
+35,6,Over the Moon,Movie,Yes,"Oct 23, 2020",12,79,2020/11/04
+36,7,Mile 22,Movie,,,1,4,2020/11/04
+37,8,Snowden,Movie,,,1,3,2020/11/04
+38,9,Grand Army,TV Show,Yes,"Oct 16, 2020",12,38,2020/11/04
+39,10,The Haunting of Bly Manor,TV Show,Yes,"Oct 9, 2020",26,185,2020/11/04
+40,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",13,116,2020/11/05
+41,2,Knock Knock,Movie,,,3,25,2020/11/05
+42,3,Mile 22,Movie,,,2,12,2020/11/05
+43,4,Holidate,Movie,Yes,"Oct 28, 2020",8,75,2020/11/05
+44,5,Easy A,Movie,,,1,6,2020/11/05
+45,6,Snowden,Movie,,,2,8,2020/11/05
+46,7,Cocomelon,TV Show,,"Jun 1, 2020",47,111,2020/11/05
+47,8,Chappelle's Show,TV Show,,,1,3,2020/11/05
+48,9,Rogue City,Movie,Yes,"Oct 30, 2020",6,35,2020/11/05
+49,10,Over the Moon,Movie,Yes,"Oct 23, 2020",13,80,2020/11/05
+50,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",14,126,2020/11/06
+51,2,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",1,9,2020/11/06
+52,3,Mile 22,Movie,,,3,20,2020/11/06
+53,4,Knock Knock,Movie,,,4,32,2020/11/06
+54,5,Holidate,Movie,Yes,"Oct 28, 2020",9,81,2020/11/06
+55,6,Chappelle's Show,TV Show,,,2,8,2020/11/06
+56,7,Easy A,Movie,,,2,10,2020/11/06
+57,8,Cocomelon,TV Show,,"Jun 1, 2020",48,114,2020/11/06
+58,9,Snowden,Movie,,,3,10,2020/11/06
+59,10,The Impossible,Movie,,,1,1,2020/11/06
+60,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",15,136,2020/11/07
+61,2,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",2,18,2020/11/07
+62,3,The Impossible,Movie,,,2,9,2020/11/07
+63,4,Mile 22,Movie,,,4,27,2020/11/07
+64,5,Knock Knock,Movie,,,5,38,2020/11/07
+65,6,The Great British Baking Show,TV Show,Yes,,9,33,2020/11/07
+66,7,Chappelle's Show,TV Show,,,3,12,2020/11/07
+67,8,Easy A,Movie,,,3,13,2020/11/07
+68,9,Holidate,Movie,Yes,"Oct 28, 2020",10,83,2020/11/07
+69,10,Cocomelon,TV Show,,"Jun 1, 2020",49,115,2020/11/07
+70,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",16,146,2020/11/08
+71,2,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",3,27,2020/11/08
+72,3,The Impossible,Movie,,,3,17,2020/11/08
+73,4,Knock Knock,Movie,,,6,45,2020/11/08
+74,5,Mile 22,Movie,,,5,33,2020/11/08
+75,6,The Great British Baking Show,TV Show,Yes,,10,38,2020/11/08
+76,7,Chappelle's Show,TV Show,,,4,16,2020/11/08
+77,8,Holidate,Movie,Yes,"Oct 28, 2020",11,86,2020/11/08
+78,9,Easy A,Movie,,,4,15,2020/11/08
+79,10,Midnight at the Magnolia,Movie,,,1,1,2020/11/08
+80,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",17,156,2020/11/09
+81,2,The Impossible,Movie,,,4,26,2020/11/09
+82,3,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",4,35,2020/11/09
+83,4,Mile 22,Movie,,,6,40,2020/11/09
+84,5,Knock Knock,Movie,,,7,51,2020/11/09
+85,6,Chappelle's Show,TV Show,,,5,21,2020/11/09
+86,7,Holidate,Movie,Yes,"Oct 28, 2020",12,90,2020/11/09
+87,8,Easy A,Movie,,,5,18,2020/11/09
+88,9,Midnight at the Magnolia,Movie,,,2,3,2020/11/09
+89,10,Cocomelon,TV Show,,"Jun 1, 2020",50,116,2020/11/09
+90,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",18,166,2020/11/10
+91,2,The Impossible,Movie,,,5,35,2020/11/10
+92,3,Chappelle's Show,TV Show,,,6,29,2020/11/10
+93,4,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",5,42,2020/11/10
+94,5,Mile 22,Movie,,,7,46,2020/11/10
+95,6,Cocomelon,TV Show,,"Jun 1, 2020",51,121,2020/11/10
+96,7,Knock Knock,Movie,,,8,55,2020/11/10
+97,8,Easy A,Movie,,,6,21,2020/11/10
+98,9,Midnight at the Magnolia,Movie,,,3,5,2020/11/10
+99,10,Holidate,Movie,Yes,"Oct 28, 2020",13,91,2020/11/10
+100,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",19,176,2020/11/11
+101,2,The Impossible,Movie,,,6,44,2020/11/11
+102,3,Chappelle's Show,TV Show,,,7,37,2020/11/11
+103,4,Mile 22,Movie,,,8,53,2020/11/11
+104,5,Dash & Lily,TV Show,Yes,"Nov 10, 2020",1,6,2020/11/11
+105,6,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",6,47,2020/11/11
+106,7,Cocomelon,TV Show,,"Jun 1, 2020",52,125,2020/11/11
+107,8,Knock Knock,Movie,,,9,58,2020/11/11
+108,9,Dr. Seussâ The Grinch,Movie,,,1,2,2020/11/11
+109,10,60 Days In,TV Show,,,1,1,2020/11/11
+110,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",20,186,2020/11/12
+111,2,Dash & Lily,TV Show,Yes,"Nov 10, 2020",2,15,2020/11/12
+112,3,The Impossible,Movie,,,7,52,2020/11/12
+113,4,Chappelle's Show,TV Show,,,8,44,2020/11/12
+114,5,Mile 22,Movie,,,9,59,2020/11/12
+115,6,Trial 4,TV Show,Yes,"Nov 11, 2020",1,5,2020/11/12
+116,7,Cocomelon,TV Show,,"Jun 1, 2020",53,129,2020/11/12
+117,8,Operation Christmas Drop,Movie,Yes,"Nov 5, 2020",7,50,2020/11/12
+118,9,Dr. Seussâ The Grinch,Movie,,,2,4,2020/11/12
+119,10,60 Days In,TV Show,,,2,2,2020/11/12
+120,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",21,196,2020/11/13
+121,2,Dash & Lily,TV Show,Yes,"Nov 10, 2020",3,24,2020/11/13
+122,3,Trial 4,TV Show,Yes,"Nov 11, 2020",2,13,2020/11/13
+123,4,The Impossible,Movie,,,8,59,2020/11/13
+124,5,Chappelle's Show,TV Show,,,9,50,2020/11/13
+125,6,The Liberator,TV Show,Yes,"Nov 11, 2020",1,5,2020/11/13
+126,7,Cocomelon,TV Show,,"Jun 1, 2020",54,133,2020/11/13
+127,8,Mile 22,Movie,,,10,62,2020/11/13
+128,9,Dr. Seussâ The Grinch,Movie,,,3,6,2020/11/13
+129,10,60 Days In,TV Show,,,3,3,2020/11/13
+130,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",22,206,2020/11/14
+131,2,Dash & Lily,TV Show,Yes,"Nov 10, 2020",4,33,2020/11/14
+132,3,Trial 4,TV Show,Yes,"Nov 11, 2020",3,21,2020/11/14
+133,4,The Impossible,Movie,,,9,66,2020/11/14
+134,5,Chappelle's Show,TV Show,,,10,56,2020/11/14
+135,6,The Liberator,TV Show,Yes,"Nov 11, 2020",2,10,2020/11/14
+136,7,Cocomelon,TV Show,,"Jun 1, 2020",55,137,2020/11/14
+137,8,Mile 22,Movie,,,11,65,2020/11/14
+138,9,Dr. Seussâ The Grinch,Movie,,,4,8,2020/11/14
+139,10,60 Days In,TV Show,,,4,4,2020/11/14
+140,1,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",23,216,2020/11/15
+141,2,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",1,9,2020/11/15
+142,3,Trial 4,TV Show,Yes,"Nov 11, 2020",4,29,2020/11/15
+143,4,The Impossible,Movie,,,10,73,2020/11/15
+144,5,American Horror Story,TV Show,,,1,6,2020/11/15
+145,6,Dr. Seussâ The Grinch,Movie,,,5,13,2020/11/15
+146,7,Dash & Lily,TV Show,Yes,"Nov 10, 2020",5,37,2020/11/15
+147,8,The Great British Baking Show,TV Show,Yes,,11,41,2020/11/15
+148,9,La vita davanti a sÃ©,Movie,Yes,"Nov 13, 2020",1,2,2020/11/15
+149,10,Chappelle's Show,TV Show,,,11,57,2020/11/15
+150,1,The Crown,TV Show,Yes,,1,10,2020/11/16
+151,2,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",24,225,2020/11/16
+152,3,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",2,17,2020/11/16
+153,4,Dr. Seussâ The Grinch,Movie,,,6,20,2020/11/16
+154,5,Trial 4,TV Show,Yes,"Nov 11, 2020",5,35,2020/11/16
+155,6,American Horror Story,TV Show,,,2,11,2020/11/16
+156,7,La vita davanti a sÃ©,Movie,Yes,"Nov 13, 2020",2,6,2020/11/16
+157,8,The Impossible,Movie,,,11,76,2020/11/16
+158,9,Cocomelon,TV Show,,"Jun 1, 2020",56,139,2020/11/16
+159,10,Dash & Lily,TV Show,Yes,"Nov 10, 2020",6,38,2020/11/16
+160,1,The Crown,TV Show,Yes,,2,20,2020/11/17
+161,2,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",25,234,2020/11/17
+162,3,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",1,8,2020/11/17
+163,4,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",3,24,2020/11/17
+164,5,Dr. Seussâ The Grinch,Movie,,,7,26,2020/11/17
+165,6,Cocomelon,TV Show,,"Jun 1, 2020",57,144,2020/11/17
+166,7,American Horror Story,TV Show,,,3,15,2020/11/17
+167,8,Trial 4,TV Show,Yes,"Nov 11, 2020",6,38,2020/11/17
+168,9,Hometown Holiday,Movie,,,1,2,2020/11/17
+169,10,Dash & Lily,TV Show,Yes,"Nov 10, 2020",7,39,2020/11/17
+170,1,The Crown,TV Show,Yes,,3,30,2020/11/18
+171,2,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",1,9,2020/11/18
+172,3,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",26,242,2020/11/18
+173,4,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",2,15,2020/11/18
+174,5,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",5,18,2020/11/18
+175,6,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",4,29,2020/11/18
+176,7,Cocomelon,TV Show,,"Jun 1, 2020",58,148,2020/11/18
+177,8,Dr. Seussâ The Grinch,Movie,,,8,29,2020/11/18
+178,9,Hometown Holiday,Movie,,,2,4,2020/11/18
+179,10,American Horror Story,TV Show,,,4,16,2020/11/18
+180,1,The Crown,TV Show,Yes,,4,40,2020/11/19
+181,2,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",2,18,2020/11/19
+182,3,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",27,250,2020/11/19
+183,4,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",3,22,2020/11/19
+184,5,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",6,24,2020/11/19
+185,6,Survivor,TV Show,,,1,5,2020/11/19
+186,7,Cocomelon,TV Show,,"Jun 1, 2020",59,152,2020/11/19
+187,8,Dr. Seussâ The Grinch,Movie,,,9,32,2020/11/19
+188,9,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",5,31,2020/11/19
+189,10,American Horror Story,TV Show,,,5,17,2020/11/19
+190,1,The Crown,TV Show,Yes,,5,50,2020/11/20
+191,2,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",1,9,2020/11/20
+192,3,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",3,26,2020/11/20
+193,4,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",28,257,2020/11/20
+194,5,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",4,28,2020/11/20
+195,6,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",7,29,2020/11/20
+196,7,Survivor,TV Show,,,2,9,2020/11/20
+197,8,Cocomelon,TV Show,,"Jun 1, 2020",60,155,2020/11/20
+198,9,Dr. Seussâ The Grinch,Movie,,,10,34,2020/11/20
+199,10,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",6,32,2020/11/20
+200,1,The Crown,TV Show,Yes,,6,60,2020/11/21
+201,2,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",2,18,2020/11/21
+202,3,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",4,34,2020/11/21
+203,4,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",29,264,2020/11/21
+204,5,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",5,34,2020/11/21
+205,6,The Great British Baking Show,TV Show,Yes,,12,46,2020/11/21
+206,7,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",8,33,2020/11/21
+207,8,Dr. Seussâ The Grinch,Movie,,,11,37,2020/11/21
+208,9,Cocomelon,TV Show,,"Jun 1, 2020",61,157,2020/11/21
+209,10,Survivor,TV Show,,,3,10,2020/11/21
+210,1,The Crown,TV Show,Yes,,7,70,2020/11/22
+211,2,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",5,43,2020/11/22
+212,3,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",3,26,2020/11/22
+213,4,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",30,271,2020/11/22
+214,5,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",6,40,2020/11/22
+215,6,Dr. Seussâ The Grinch,Movie,,,12,42,2020/11/22
+216,7,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",9,37,2020/11/22
+217,8,The Great British Baking Show,TV Show,Yes,,13,49,2020/11/22
+218,9,Survivor,TV Show,,,4,12,2020/11/22
+219,10,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",7,33,2020/11/22
+220,1,The Crown,TV Show,Yes,,8,80,2020/11/23
+221,2,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",6,52,2020/11/23
+222,3,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",31,279,2020/11/23
+223,4,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",4,33,2020/11/23
+224,5,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",7,46,2020/11/23
+225,6,Dr. Seussâ The Grinch,Movie,,,13,47,2020/11/23
+226,7,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",10,41,2020/11/23
+227,8,Christmas on the Square,Movie,Yes,"Nov 22, 2020",1,3,2020/11/23
+228,9,Survivor,TV Show,,,5,14,2020/11/23
+229,10,Jingle Jangle: A Christmas …,TV Show,Yes,"Nov 13, 2020",8,34,2020/11/23
+230,1,The Crown,TV Show,Yes,,9,90,2020/11/24
+231,2,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",32,288,2020/11/24
+232,3,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",7,60,2020/11/24
+233,4,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",5,40,2020/11/24
+234,5,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",8,52,2020/11/24
+235,6,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",11,46,2020/11/24
+236,7,Dr. Seussâ The Grinch,Movie,,,14,51,2020/11/24
+237,8,If Anything Happens I Love You,Movie,Yes,"Nov 20, 2020",1,3,2020/11/24
+238,9,Survivor,TV Show,,,6,16,2020/11/24
+239,10,Cocomelon,TV Show,,"Jun 1, 2020",62,158,2020/11/24
+240,1,Hillbilly Elegy,Movie,Yes,"Nov 24, 2020",1,10,2020/11/25
+241,2,The Crown,TV Show,Yes,,10,99,2020/11/25
+242,3,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",33,296,2020/11/25
+243,4,Hard Kill,Movie,,,1,7,2020/11/25
+244,5,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",8,66,2020/11/25
+245,6,Dr. Seussâ The Grinch,Movie,,,15,56,2020/11/25
+246,7,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",9,56,2020/11/25
+247,8,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",12,49,2020/11/25
+248,9,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",6,42,2020/11/25
+249,10,If Anything Happens I Love You,Movie,Yes,"Nov 20, 2020",2,4,2020/11/25
+250,1,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",1,10,2020/11/26
+251,2,Hillbilly Elegy,Movie,Yes,"Nov 24, 2020",2,19,2020/11/26
+252,3,The Crown,TV Show,Yes,,11,107,2020/11/26
+253,4,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",34,303,2020/11/26
+254,5,Hard Kill,Movie,,,2,13,2020/11/26
+255,6,Dr. Seussâ The Grinch,Movie,,,16,61,2020/11/26
+256,7,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",9,70,2020/11/26
+257,8,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",13,52,2020/11/26
+258,9,Cloudy with a Chance of Mea…,Movie,,"Nov 15, 2020",10,58,2020/11/26
+259,10,The Christmas Chronicles,Movie,Yes,,1,1,2020/11/26
+260,1,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",2,20,2020/11/27
+261,2,Hillbilly Elegy,Movie,Yes,"Nov 24, 2020",3,28,2020/11/27
+262,3,Hard Kill,Movie,,,3,21,2020/11/27
+263,4,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",35,310,2020/11/27
+264,5,The Crown,TV Show,Yes,,12,113,2020/11/27
+265,6,Dr. Seussâ The Grinch,Movie,,,17,66,2020/11/27
+266,7,The Christmas Chronicles,Movie,Yes,,2,5,2020/11/27
+267,8,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",10,73,2020/11/27
+268,9,How the Grinch Stole Christmas,Movie,,,1,2,2020/11/27
+269,10,The Boss Baby: Back in Busi…,TV Show,Yes,"Mar 16, 2020",14,53,2020/11/27
+270,1,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",3,30,2020/11/28
+271,2,Virgin River,TV Show,Yes,"Nov 27, 2020",1,9,2020/11/28
+272,3,Hillbilly Elegy,Movie,Yes,"Nov 24, 2020",4,36,2020/11/28
+273,4,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",36,317,2020/11/28
+274,5,The Crown,TV Show,Yes,,13,119,2020/11/28
+275,6,Hard Kill,Movie,,,4,26,2020/11/28
+276,7,Dr. Seussâ The Grinch,Movie,,,18,70,2020/11/28
+277,8,The Great British Baking Show,TV Show,Yes,,14,52,2020/11/28
+278,9,The Christmas Chronicles,Movie,Yes,,3,7,2020/11/28
+279,10,La belva,Movie,Yes,"Nov 27, 2020",1,1,2020/11/28
+280,1,Virgin River,TV Show,Yes,"Nov 27, 2020",2,19,2020/11/29
+281,2,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",4,39,2020/11/29
+282,3,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",37,325,2020/11/29
+283,4,Hillbilly Elegy,Movie,Yes,"Nov 24, 2020",5,43,2020/11/29
+284,5,The Crown,TV Show,Yes,,14,125,2020/11/29
+285,6,Dr. Seussâ The Grinch,Movie,,,19,75,2020/11/29
+286,7,La belva,Movie,Yes,"Nov 27, 2020",2,5,2020/11/29
+287,8,The Christmas Chronicles,Movie,Yes,,4,10,2020/11/29
+288,9,Hard Kill,Movie,,,5,28,2020/11/29
+289,10,How the Grinch Stole Christmas,Movie,,,2,3,2020/11/29
+290,1,Virgin River,TV Show,Yes,"Nov 27, 2020",3,29,2020/11/30
+291,2,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",5,48,2020/11/30
+292,3,The Queen's Gambit,TV Show,Yes,"Oct 23, 2020",38,333,2020/11/30
+293,4,The Crown,TV Show,Yes,,15,132,2020/11/30
+294,5,La belva,Movie,Yes,"Nov 27, 2020",3,11,2020/11/30
+295,6,Hillbilly Elegy,Movie,Yes,"Nov 24, 2020",6,48,2020/11/30
+296,7,Dr. Seussâ The Grinch,Movie,,,20,79,2020/11/30
+297,8,Hard Kill,Movie,,,6,31,2020/11/30
+298,9,The Christmas Chronicles,Movie,Yes,,5,12,2020/11/30
+299,10,How the Grinch Stole Christmas,Movie,,,3,4,2020/11/30
