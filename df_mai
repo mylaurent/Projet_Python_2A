@@ -1,0 +1,311 @@
+,Unnamed: 0,Title,Type,Netflix Excl.,Netflix Release Date,Days In Top 10,Viewer- Ship Score,Measure Date
+0,1,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",4,34,2020/05/01
+1,2,Dangerous Lies,Movie,Yes,"Apr 30, 2020",1,9,2020/05/01
+2,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",12,99,2020/05/01
+3,4,Extraction,Movie,Yes,"Apr 24, 2020",5,46,2020/05/01
+4,5,Murder to Mercy: The Cyntoi…,Movie,Yes,"Apr 29, 2020",2,12,2020/05/01
+5,6,The Last Kingdom,TV Show,Yes,,5,31,2020/05/01
+6,7,The Willoughbys,Movie,Yes,"Apr 22, 2020",6,40,2020/05/01
+7,8,Waco,TV Show,,,10,55,2020/05/01
+8,9,Ozark,TV Show,Yes,"Mar 27, 2020",25,169,2020/05/01
+9,10,Too Hot to Handle,TV Show,Yes,"Apr 17, 2020",10,59,2020/05/01
+10,1,Dangerous Lies,Movie,Yes,"Apr 30, 2020",2,19,2020/05/02
+11,2,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",5,43,2020/05/02
+12,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",13,107,2020/05/02
+13,4,Extraction,Movie,Yes,"Apr 24, 2020",6,53,2020/05/02
+14,5,Murder to Mercy: The Cyntoi…,Movie,Yes,"Apr 29, 2020",3,18,2020/05/02
+15,6,The Last Kingdom,TV Show,Yes,,6,36,2020/05/02
+16,7,The Willoughbys,Movie,Yes,"Apr 22, 2020",7,44,2020/05/02
+17,8,All Day and a Night,Movie,Yes,"May 1, 2020",1,3,2020/05/02
+18,9,Ozark,TV Show,Yes,"Mar 27, 2020",26,171,2020/05/02
+19,10,Waco,TV Show,,,11,56,2020/05/02
+20,1,Dangerous Lies,Movie,Yes,"Apr 30, 2020",3,29,2020/05/03
+21,2,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",6,52,2020/05/03
+22,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",14,115,2020/05/03
+23,4,Extraction,Movie,Yes,"Apr 24, 2020",7,60,2020/05/03
+24,5,All Day and a Night,Movie,Yes,"May 1, 2020",2,9,2020/05/03
+25,6,Hollywood,TV Show,Yes,"May 1, 2020",1,5,2020/05/03
+26,7,Den of Thieves,Movie,,,1,4,2020/05/03
+27,8,Murder to Mercy: The Cyntoi…,Movie,Yes,"Apr 29, 2020",4,21,2020/05/03
+28,9,The Half of It,Movie,Yes,"May 1, 2020",1,2,2020/05/03
+29,10,The Last Kingdom,TV Show,Yes,,7,37,2020/05/03
+30,1,Dangerous Lies,Movie,Yes,"Apr 30, 2020",4,39,2020/05/04
+31,2,Outer Banks,TV Show,Yes,"Apr 15, 2020",15,124,2020/05/04
+32,3,Hollywood,TV Show,Yes,"May 1, 2020",2,13,2020/05/04
+33,4,All Day and a Night,Movie,Yes,"May 1, 2020",3,16,2020/05/04
+34,5,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",7,58,2020/05/04
+35,6,Extraction,Movie,Yes,"Apr 24, 2020",8,65,2020/05/04
+36,7,Den of Thieves,Movie,,,2,8,2020/05/04
+37,8,Murder to Mercy: The Cyntoi…,Movie,Yes,"Apr 29, 2020",5,24,2020/05/04
+38,9,The Last Kingdom,TV Show,Yes,,8,39,2020/05/04
+39,10,The Half of It,Movie,Yes,"May 1, 2020",2,3,2020/05/04
+40,1,Outer Banks,TV Show,Yes,"Apr 15, 2020",16,134,2020/05/05
+41,2,Dangerous Lies,Movie,Yes,"Apr 30, 2020",5,48,2020/05/05
+42,3,Hollywood,TV Show,Yes,"May 1, 2020",3,21,2020/05/05
+43,4,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",8,65,2020/05/05
+44,5,All Day and a Night,Movie,Yes,"May 1, 2020",4,22,2020/05/05
+45,6,Den of Thieves,Movie,,,3,13,2020/05/05
+46,7,Extraction,Movie,Yes,"Apr 24, 2020",9,69,2020/05/05
+47,8,Arctic Dogs,Movie,,,1,3,2020/05/05
+48,9,The Last Kingdom,TV Show,Yes,,9,41,2020/05/05
+49,10,Murder to Mercy: The Cyntoi…,Movie,Yes,"Apr 29, 2020",6,25,2020/05/05
+50,1,Outer Banks,TV Show,Yes,"Apr 15, 2020",17,144,2020/05/06
+51,2,Hollywood,TV Show,Yes,"May 1, 2020",4,30,2020/05/06
+52,3,Arctic Dogs,Movie,,,2,11,2020/05/06
+53,4,Dangerous Lies,Movie,Yes,"Apr 30, 2020",6,55,2020/05/06
+54,5,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",9,71,2020/05/06
+55,6,Jerry Seinfeld: 23 Hours To…,Stand-Up Comedy,Yes,"May 5, 2020",1,5,2020/05/06
+56,7,All Day and a Night,Movie,Yes,"May 1, 2020",5,26,2020/05/06
+57,8,Den of Thieves,Movie,,,4,16,2020/05/06
+58,9,Extraction,Movie,Yes,"Apr 24, 2020",10,71,2020/05/06
+59,10,The Last Kingdom,TV Show,Yes,,10,42,2020/05/06
+60,1,Outer Banks,TV Show,Yes,"Apr 15, 2020",18,154,2020/05/07
+61,2,Hollywood,TV Show,Yes,"May 1, 2020",5,39,2020/05/07
+62,3,Jerry Seinfeld: 23 Hours To…,Stand-Up Comedy,Yes,"May 5, 2020",2,13,2020/05/07
+63,4,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",10,78,2020/05/07
+64,5,Becoming,Movie,Yes,"May 6, 2020",1,6,2020/05/07
+65,6,Dangerous Lies,Movie,Yes,"Apr 30, 2020",7,60,2020/05/07
+66,7,Workin' Moms,TV Show,Yes,"Feb 18, 2020",1,4,2020/05/07
+67,8,Arctic Dogs,Movie,,,3,14,2020/05/07
+68,9,Den of Thieves,Movie,,,5,18,2020/05/07
+69,10,All Day and a Night,Movie,Yes,"May 1, 2020",6,27,2020/05/07
+70,1,Outer Banks,TV Show,Yes,"Apr 15, 2020",19,164,2020/05/08
+71,2,Hollywood,TV Show,Yes,"May 1, 2020",6,48,2020/05/08
+72,3,Becoming,Movie,Yes,"May 6, 2020",2,14,2020/05/08
+73,4,Workin' Moms,TV Show,Yes,"Feb 18, 2020",2,11,2020/05/08
+74,5,Jerry Seinfeld: 23 Hours To…,Stand-Up Comedy,Yes,"May 5, 2020",3,19,2020/05/08
+75,6,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",11,83,2020/05/08
+76,7,Den of Thieves,Movie,,,6,22,2020/05/08
+77,8,Arctic Dogs,Movie,,,4,17,2020/05/08
+78,9,Dangerous Lies,Movie,Yes,"Apr 30, 2020",8,62,2020/05/08
+79,10,Ozark,TV Show,Yes,"Mar 27, 2020",27,172,2020/05/08
+80,1,Dead to Me,TV Show,Yes,"May 8, 2020",1,10,2020/05/09
+81,2,Outer Banks,TV Show,Yes,"Apr 15, 2020",20,173,2020/05/09
+82,3,Hollywood,TV Show,Yes,"May 1, 2020",7,56,2020/05/09
+83,4,Workin' Moms,TV Show,Yes,"Feb 18, 2020",3,18,2020/05/09
+84,5,Becoming,Movie,Yes,"May 6, 2020",3,20,2020/05/09
+85,6,Sleepless,Movie,,,1,5,2020/05/09
+86,7,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",12,87,2020/05/09
+87,8,Jerry Seinfeld: 23 Hours To…,Stand-Up Comedy,Yes,"May 5, 2020",4,22,2020/05/09
+88,9,Den of Thieves,Movie,,,7,24,2020/05/09
+89,10,Too Hot to Handle,TV Show,Yes,"Apr 17, 2020",11,60,2020/05/09
+90,1,Dead to Me,TV Show,Yes,"May 8, 2020",2,20,2020/05/10
+91,2,Outer Banks,TV Show,Yes,"Apr 15, 2020",21,182,2020/05/10
+92,3,Sleepless,Movie,,,2,13,2020/05/10
+93,4,Hollywood,TV Show,Yes,"May 1, 2020",8,63,2020/05/10
+94,5,Becoming,Movie,Yes,"May 6, 2020",4,26,2020/05/10
+95,6,Workin' Moms,TV Show,Yes,"Feb 18, 2020",4,23,2020/05/10
+96,7,Den of Thieves,Movie,,,8,28,2020/05/10
+97,8,Jerry Seinfeld: 23 Hours To…,Stand-Up Comedy,Yes,"May 5, 2020",5,25,2020/05/10
+98,9,Extraction,Movie,Yes,"Apr 24, 2020",11,73,2020/05/10
+99,10,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",13,88,2020/05/10
+100,1,Dead to Me,TV Show,Yes,"May 8, 2020",3,30,2020/05/11
+101,2,Outer Banks,TV Show,Yes,"Apr 15, 2020",22,191,2020/05/11
+102,3,John Henry,Movie,,,1,8,2020/05/11
+103,4,Sleepless,Movie,,,3,20,2020/05/11
+104,5,Hollywood,TV Show,Yes,"May 1, 2020",9,69,2020/05/11
+105,6,Becoming,Movie,Yes,"May 6, 2020",5,31,2020/05/11
+106,7,Extraction,Movie,Yes,"Apr 24, 2020",12,77,2020/05/11
+107,8,Den of Thieves,Movie,,,9,31,2020/05/11
+108,9,Workin' Moms,TV Show,Yes,"Feb 18, 2020",5,25,2020/05/11
+109,10,Ozark,TV Show,Yes,"Mar 27, 2020",28,173,2020/05/11
+110,1,Dead to Me,TV Show,Yes,"May 8, 2020",4,40,2020/05/12
+111,2,John Henry,Movie,,,2,17,2020/05/12
+112,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",23,199,2020/05/12
+113,4,Sleepless,Movie,,,4,27,2020/05/12
+114,5,Hollywood,TV Show,Yes,"May 1, 2020",10,75,2020/05/12
+115,6,Grey's Anatomy,TV Show,,,1,5,2020/05/12
+116,7,Ozark,TV Show,Yes,"Mar 27, 2020",29,177,2020/05/12
+117,8,Workin' Moms,TV Show,Yes,"Feb 18, 2020",6,28,2020/05/12
+118,9,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",14,90,2020/05/12
+119,10,The Last Kingdom,TV Show,Yes,,11,43,2020/05/12
+120,1,Dead to Me,TV Show,Yes,"May 8, 2020",5,50,2020/05/13
+121,2,John Henry,Movie,,,3,26,2020/05/13
+122,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",24,207,2020/05/13
+123,4,Sleepless,Movie,,,5,34,2020/05/13
+124,5,Have a Good Trip: Adventure…,Movie,Yes,"May 11, 2020",1,6,2020/05/13
+125,6,Grey's Anatomy,TV Show,,,2,10,2020/05/13
+126,7,Trial by Media,TV Show,Yes,"May 11, 2020",1,4,2020/05/13
+127,8,Hollywood,TV Show,Yes,"May 1, 2020",11,78,2020/05/13
+128,9,Ozark,TV Show,Yes,"Mar 27, 2020",30,179,2020/05/13
+129,10,House at the End of the Street,Movie,Yes,,1,1,2020/05/13
+130,1,Dead to Me,TV Show,Yes,"May 8, 2020",6,60,2020/05/14
+131,2,The Wrong Missy,Movie,Yes,"May 13, 2020",1,9,2020/05/14
+132,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",25,215,2020/05/14
+133,4,John Henry,Movie,,,4,33,2020/05/14
+134,5,Trial by Media,TV Show,Yes,"May 11, 2020",2,10,2020/05/14
+135,6,Have a Good Trip: Adventure…,Movie,Yes,"May 11, 2020",2,11,2020/05/14
+136,7,Grey's Anatomy,TV Show,,,3,14,2020/05/14
+137,8,Sleepless,Movie,,,6,37,2020/05/14
+138,9,Ozark,TV Show,Yes,"Mar 27, 2020",31,181,2020/05/14
+139,10,Hollywood,TV Show,Yes,"May 1, 2020",12,79,2020/05/14
+140,1,The Wrong Missy,Movie,Yes,"May 13, 2020",2,19,2020/05/15
+141,2,Dead to Me,TV Show,Yes,"May 8, 2020",7,69,2020/05/15
+142,3,Riverdale,TV Show,,,1,8,2020/05/15
+143,4,Outer Banks,TV Show,Yes,"Apr 15, 2020",26,222,2020/05/15
+144,5,John Henry,Movie,,,5,39,2020/05/15
+145,6,Trial by Media,TV Show,Yes,"May 11, 2020",3,15,2020/05/15
+146,7,Grey's Anatomy,TV Show,,,4,18,2020/05/15
+147,8,Ozark,TV Show,Yes,"Mar 27, 2020",32,184,2020/05/15
+148,9,Have a Good Trip: Adventure…,Movie,Yes,"May 11, 2020",3,13,2020/05/15
+149,10,Hollywood,TV Show,Yes,"May 1, 2020",13,80,2020/05/15
+150,1,The Wrong Missy,Movie,Yes,"May 13, 2020",3,29,2020/05/16
+151,2,Dead to Me,TV Show,Yes,"May 8, 2020",8,78,2020/05/16
+152,3,Riverdale,TV Show,,,2,16,2020/05/16
+153,4,Outer Banks,TV Show,Yes,"Apr 15, 2020",27,229,2020/05/16
+154,5,White Lines,TV Show,Yes,"May 15, 2020",1,6,2020/05/16
+155,6,John Henry,Movie,,,6,44,2020/05/16
+156,7,Trial by Media,TV Show,Yes,"May 11, 2020",4,19,2020/05/16
+157,8,Grey's Anatomy,TV Show,,,5,21,2020/05/16
+158,9,Ozark,TV Show,Yes,"Mar 27, 2020",33,186,2020/05/16
+159,10,Have a Good Trip: Adventure…,Movie,Yes,"May 11, 2020",4,14,2020/05/16
+160,1,The Wrong Missy,Movie,Yes,"May 13, 2020",4,39,2020/05/17
+161,2,Dead to Me,TV Show,Yes,"May 8, 2020",9,87,2020/05/17
+162,3,Riverdale,TV Show,,,3,24,2020/05/17
+163,4,White Lines,TV Show,Yes,"May 15, 2020",2,13,2020/05/17
+164,5,Outer Banks,TV Show,Yes,"Apr 15, 2020",28,235,2020/05/17
+165,6,Public Enemies,Movie,,"May 16, 2020",1,5,2020/05/17
+166,7,John Henry,Movie,,,7,48,2020/05/17
+167,8,Magic for Humans,TV Show,Yes,"May 15, 2020",1,3,2020/05/17
+168,9,Trial by Media,TV Show,Yes,"May 11, 2020",5,21,2020/05/17
+169,10,Have a Good Trip: Adventure…,Movie,Yes,"May 11, 2020",5,15,2020/05/17
+170,1,The Wrong Missy,Movie,Yes,"May 13, 2020",5,49,2020/05/18
+171,2,Dead to Me,TV Show,Yes,"May 8, 2020",10,96,2020/05/18
+172,3,Riverdale,TV Show,,,4,32,2020/05/18
+173,4,Public Enemies,Movie,,"May 16, 2020",2,12,2020/05/18
+174,5,White Lines,TV Show,Yes,"May 15, 2020",3,19,2020/05/18
+175,6,Outer Banks,TV Show,Yes,"Apr 15, 2020",29,240,2020/05/18
+176,7,Soul Surfer,Movie,,"May 17, 2020",1,4,2020/05/18
+177,8,Magic for Humans,TV Show,Yes,"May 15, 2020",2,6,2020/05/18
+178,9,John Henry,Movie,,,8,50,2020/05/18
+179,10,Trial by Media,TV Show,Yes,"May 11, 2020",6,22,2020/05/18
+180,1,Avatar the Last Airbender,TV Show,,,1,10,2020/05/19
+181,2,The Wrong Missy,Movie,Yes,"May 13, 2020",6,58,2020/05/19
+182,3,Riverdale,TV Show,,,5,40,2020/05/19
+183,4,Dead to Me,TV Show,Yes,"May 8, 2020",11,103,2020/05/19
+184,5,Soul Surfer,Movie,,"May 17, 2020",2,10,2020/05/19
+185,6,White Lines,TV Show,Yes,"May 15, 2020",4,24,2020/05/19
+186,7,Outer Banks,TV Show,Yes,"Apr 15, 2020",30,244,2020/05/19
+187,8,Public Enemies,Movie,,"May 16, 2020",3,15,2020/05/19
+188,9,Magic for Humans,TV Show,Yes,"May 15, 2020",3,8,2020/05/19
+189,10,Ozark,TV Show,Yes,"Mar 27, 2020",34,187,2020/05/19
+190,1,Avatar the Last Airbender,TV Show,,,2,20,2020/05/20
+191,2,The Wrong Missy,Movie,Yes,"May 13, 2020",7,67,2020/05/20
+192,3,Riverdale,TV Show,,,6,48,2020/05/20
+193,4,Dead to Me,TV Show,Yes,"May 8, 2020",12,110,2020/05/20
+194,5,Sweet Magnolias,TV Show,Yes,"May 19, 2020",1,6,2020/05/20
+195,6,White Lines,TV Show,Yes,"May 15, 2020",5,29,2020/05/20
+196,7,Outer Banks,TV Show,Yes,"Apr 15, 2020",31,248,2020/05/20
+197,8,Soul Surfer,Movie,,"May 17, 2020",3,13,2020/05/20
+198,9,Public Enemies,Movie,,"May 16, 2020",4,17,2020/05/20
+199,10,Magic for Humans,TV Show,Yes,"May 15, 2020",4,9,2020/05/20
+200,1,Avatar the Last Airbender,TV Show,,,3,30,2020/05/21
+201,2,Sweet Magnolias,TV Show,Yes,"May 19, 2020",2,15,2020/05/21
+202,3,Riverdale,TV Show,,,7,56,2020/05/21
+203,4,Dead to Me,TV Show,Yes,"May 8, 2020",13,117,2020/05/21
+204,5,The Wrong Missy,Movie,Yes,"May 13, 2020",8,73,2020/05/21
+205,6,The Flash,TV Show,,,1,5,2020/05/21
+206,7,White Lines,TV Show,Yes,"May 15, 2020",6,33,2020/05/21
+207,8,Outer Banks,TV Show,Yes,"Apr 15, 2020",32,251,2020/05/21
+208,9,Soul Surfer,Movie,,"May 17, 2020",4,15,2020/05/21
+209,10,Public Enemies,Movie,,"May 16, 2020",5,18,2020/05/21
+210,1,Avatar the Last Airbender,TV Show,,,4,40,2020/05/22
+211,2,Sweet Magnolias,TV Show,Yes,"May 19, 2020",3,24,2020/05/22
+212,3,Riverdale,TV Show,,,8,64,2020/05/22
+213,4,Dead to Me,TV Show,Yes,"May 8, 2020",14,124,2020/05/22
+214,5,The Wrong Missy,Movie,Yes,"May 13, 2020",9,79,2020/05/22
+215,6,The Flash,TV Show,,,2,10,2020/05/22
+216,7,White Lines,TV Show,Yes,"May 15, 2020",7,37,2020/05/22
+217,8,Outer Banks,TV Show,Yes,"Apr 15, 2020",33,254,2020/05/22
+218,9,Soul Surfer,Movie,,"May 17, 2020",5,17,2020/05/22
+219,10,Public Enemies,Movie,,"May 16, 2020",6,19,2020/05/22
+220,1,Avatar the Last Airbender,TV Show,,,5,50,2020/05/23
+221,2,Sweet Magnolias,TV Show,Yes,"May 19, 2020",4,33,2020/05/23
+222,3,The Lovebirds,Movie,Yes,"May 22, 2020",1,8,2020/05/23
+223,4,Riverdale,TV Show,,,9,71,2020/05/23
+224,5,Dead to Me,TV Show,Yes,"May 8, 2020",15,130,2020/05/23
+225,6,The Wrong Missy,Movie,Yes,"May 13, 2020",10,84,2020/05/23
+226,7,The Flash,TV Show,,,3,14,2020/05/23
+227,8,White Lines,TV Show,Yes,"May 15, 2020",8,40,2020/05/23
+228,9,Outer Banks,TV Show,Yes,"Apr 15, 2020",34,256,2020/05/23
+229,10,Just Go With It,Movie,,,1,1,2020/05/23
+230,1,Sweet Magnolias,TV Show,Yes,"May 19, 2020",5,43,2020/05/24
+231,2,Avatar the Last Airbender,TV Show,,,6,59,2020/05/24
+232,3,The Lovebirds,Movie,Yes,"May 22, 2020",2,16,2020/05/24
+233,4,The Wrong Missy,Movie,Yes,"May 13, 2020",11,91,2020/05/24
+234,5,Just Go With It,Movie,,,2,7,2020/05/24
+235,6,Dead to Me,TV Show,Yes,"May 8, 2020",16,135,2020/05/24
+236,7,The Flash,TV Show,,,4,18,2020/05/24
+237,8,Riverdale,TV Show,,,10,74,2020/05/24
+238,9,White Lines,TV Show,Yes,"May 15, 2020",9,42,2020/05/24
+239,10,Outer Banks,TV Show,Yes,"Apr 15, 2020",35,257,2020/05/24
+240,1,Sweet Magnolias,TV Show,Yes,"May 19, 2020",6,53,2020/05/25
+241,2,Avatar the Last Airbender,TV Show,,,7,68,2020/05/25
+242,3,The Lovebirds,Movie,Yes,"May 22, 2020",3,24,2020/05/25
+243,4,The Wrong Missy,Movie,Yes,"May 13, 2020",12,98,2020/05/25
+244,5,Just Go With It,Movie,,,3,13,2020/05/25
+245,6,Dead to Me,TV Show,Yes,"May 8, 2020",17,140,2020/05/25
+246,7,The Flash,TV Show,,,5,22,2020/05/25
+247,8,History 101,TV Show,Yes,"May 22, 2020",1,3,2020/05/25
+248,9,Riverdale,TV Show,,,11,76,2020/05/25
+249,10,White Lines,TV Show,Yes,"May 15, 2020",10,43,2020/05/25
+250,1,Sweet Magnolias,TV Show,Yes,"May 19, 2020",7,63,2020/05/26
+251,2,Avatar the Last Airbender,TV Show,,,8,77,2020/05/26
+252,3,Uncut Gems,Movie,,,1,8,2020/05/26
+253,4,The Lovebirds,Movie,Yes,"May 22, 2020",4,31,2020/05/26
+254,5,History 101,TV Show,Yes,"May 22, 2020",2,9,2020/05/26
+255,6,Just Go With It,Movie,,,4,18,2020/05/26
+256,7,The Wrong Missy,Movie,Yes,"May 13, 2020",13,102,2020/05/26
+257,8,Dead to Me,TV Show,Yes,"May 8, 2020",18,143,2020/05/26
+258,9,Riverdale,TV Show,,,12,78,2020/05/26
+259,10,The Flash,TV Show,,,6,23,2020/05/26
+260,1,Uncut Gems,Movie,,,2,18,2020/05/27
+261,2,Sweet Magnolias,TV Show,Yes,"May 19, 2020",8,72,2020/05/27
+262,3,Avatar the Last Airbender,TV Show,,,9,85,2020/05/27
+263,4,History 101,TV Show,Yes,"May 22, 2020",3,16,2020/05/27
+264,5,Just Go With It,Movie,,,5,24,2020/05/27
+265,6,Dead to Me,TV Show,Yes,"May 8, 2020",19,148,2020/05/27
+266,7,Riverdale,TV Show,,,13,82,2020/05/27
+267,8,The Lovebirds,Movie,Yes,"May 22, 2020",5,34,2020/05/27
+268,9,The Flash,TV Show,,,7,25,2020/05/27
+269,10,The Wrong Missy,Movie,Yes,"May 13, 2020",14,103,2020/05/27
+270,1,Jeffrey Epstein: Filthy Rich,TV Show,Yes,"May 27, 2020",1,10,2020/05/28
+271,2,Uncut Gems,Movie,,,3,27,2020/05/28
+272,3,Sweet Magnolias,TV Show,Yes,"May 19, 2020",9,80,2020/05/28
+273,4,Avatar the Last Airbender,TV Show,,,10,92,2020/05/28
+274,5,Dead to Me,TV Show,Yes,"May 8, 2020",20,154,2020/05/28
+275,6,Riverdale,TV Show,,,14,87,2020/05/28
+276,7,History 101,TV Show,Yes,"May 22, 2020",4,20,2020/05/28
+277,8,Just Go With It,Movie,,,6,27,2020/05/28
+278,9,The Flash,TV Show,,,8,27,2020/05/28
+279,10,The Lovebirds,Movie,Yes,"May 22, 2020",6,35,2020/05/28
+280,1,Jeffrey Epstein: Filthy Rich,TV Show,Yes,"May 27, 2020",2,20,2020/05/29
+281,2,Uncut Gems,Movie,,,4,36,2020/05/29
+282,3,Sweet Magnolias,TV Show,Yes,"May 19, 2020",10,88,2020/05/29
+283,4,Avatar the Last Airbender,TV Show,,,11,99,2020/05/29
+284,5,Dead to Me,TV Show,Yes,"May 8, 2020",21,160,2020/05/29
+285,6,Riverdale,TV Show,,,15,92,2020/05/29
+286,7,History 101,TV Show,Yes,"May 22, 2020",5,24,2020/05/29
+287,8,The Flash,TV Show,,,9,30,2020/05/29
+288,9,Just Go With It,Movie,,,7,29,2020/05/29
+289,10,Outer Banks,TV Show,Yes,"Apr 15, 2020",36,258,2020/05/29
+290,1,Space Force,TV Show,Yes,"May 29, 2020",1,10,2020/05/30
+291,2,Jeffrey Epstein: Filthy Rich,TV Show,Yes,"May 27, 2020",3,29,2020/05/30
+292,3,Uncut Gems,Movie,,,5,44,2020/05/30
+293,4,Sweet Magnolias,TV Show,Yes,"May 19, 2020",11,95,2020/05/30
+294,5,Avatar the Last Airbender,TV Show,,,12,105,2020/05/30
+295,6,Dead to Me,TV Show,Yes,"May 8, 2020",22,165,2020/05/30
+296,7,Riverdale,TV Show,,,16,96,2020/05/30
+297,8,The Flash,TV Show,,,10,33,2020/05/30
+298,9,Just Go With It,Movie,,,8,31,2020/05/30
+299,10,History 101,TV Show,Yes,"May 22, 2020",6,25,2020/05/30
+300,1,Space Force,TV Show,Yes,"May 29, 2020",2,20,2020/05/31
+301,2,Jeffrey Epstein: Filthy Rich,TV Show,Yes,"May 27, 2020",4,38,2020/05/31
+302,3,Uncut Gems,Movie,,,6,52,2020/05/31
+303,4,Sweet Magnolias,TV Show,Yes,"May 19, 2020",12,102,2020/05/31
+304,5,Avatar the Last Airbender,TV Show,,,13,111,2020/05/31
+305,6,Dead to Me,TV Show,Yes,"May 8, 2020",23,170,2020/05/31
+306,7,Just Go With It,Movie,,,9,35,2020/05/31
+307,8,Riverdale,TV Show,,,17,99,2020/05/31
+308,9,The Flash,TV Show,,,11,35,2020/05/31
+309,10,History 101,TV Show,Yes,"May 22, 2020",7,26,2020/05/31
