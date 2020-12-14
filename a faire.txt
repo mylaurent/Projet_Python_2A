@@ -1,1 +1,10 @@
 df['my_col'] = df['my_col'].astype(int)
+
+Une regex sur les plateformes ?
+Ou faire comme pour les genres ?
+
+Faire du blabla au début de jointures.
+
+Editer le read me
+
+Idée conclu : 'bon globalement on s'est rendu compte que c'est la galère pour faire correspondre des bases (pbm des titres) et qu'aussi souvent les choses sont mal codées et c'est pénible (le problème du Release Year dans netflix_titles pour les séries).
