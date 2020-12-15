@@ -1497,7 +1497,7 @@ Movie,Bille Woodruff,"Kat Graham, Mario Lopez, Audrina Patridge, Seychelle Gabri
 Movie,Bille Woodruff,"Teyana Taylor, Sierra Aylina McClain, Bryshere Gray","April 3, 2018",2018,2018,100 min,Dramas,,,
 Movie,Reema Kagti,"Shabana Azmi, Boman Irani, Abhay Deol, Minissha Lamba, Kay Kay Menon, Raima Sen, Sandhya Mridul, Vikram Chatwal, Ameesha Patel, Karan Khanna, Diya Mirza, Ranvir Shorey","December 15, 2019",2019,2007,119 min,"Comedies, Dramas, International Movies",,,
 Movie,Mike Disa,"Hayden Panettiere, Glenn Close, Patrick Warburton, Joan Cusack, David Ogden Stiers, Bill Hader, Amy Poehler, Andy Dick, Martin Short, Brad Garrett, Cheech Marin, Tommy Chong, Heidi Klum, Wayne Newton","November 3, 2018",2018,2011,86 min,"Children & Family Movies, Comedies",,,
-Movie,Tim Hill,"James Marsden, Russell Brand, Kaley Cuoco, Hank Azaria, Gary Cole, Elizabeth Perkins, Hugh Laurie, Tiffany Espensen, David Hasselhoff, Chelsea Handler","January 16, 2020",2020,2011,95 min,"Children & Family Movies, Comedies",Movie,,4.0
+Movie,Tim Hill,"James Marsden, Russell Brand, Kaley Cuoco, Hank Azaria, Gary Cole, Elizabeth Perkins, Hugh Laurie, Tiffany Espensen, David Hasselhoff, Chelsea Handler","January 16, 2020",2020,2011,95 min,"Children & Family Movies, Comedies",Movie,No,4.0
 Movie,Sudip Bandyopadhyay,"Naseeruddin Shah, Kabir Sajid, Sonali Kulkarni, Amir Bashir, Naveen Kasturia, Neha Chauhan, Virti Vaghani","September 1, 2018",2018,2018,95 min,"Children & Family Movies, Comedies, Dramas",,,
 Movie,Jack C. Newell,"Mia Rose Frampton, Beth Lacke, Stony Blyden, Juliette Angelo, Lauren Giraldo, Beau Brooks, Pej Vahdat","November 8, 2018",2018,2018,79 min,Dramas,,,
 Movie,Brodje Wemboendja,Gift Ngoepe,"December 15, 2019",2019,2017,81 min,"Documentaries, International Movies, Sports Movies",,,
@@ -1520,7 +1520,7 @@ Movie,Ziga Virc,Slavoj Zizek,"July 20, 2017",2017,2016,84 min,"Comedies, Indepen
 Movie,Bruce Leddy,"Lil Yachty, D.C. Young Fly, Alyssa Goss, DeRay Davis, Mary Lynn Rajskub, Blac Youngsta, Lil Baby, NeNe Leakes, Mike Epps, Al Shearer","December 31, 2019",2019,2019,89 min,Comedies,,,
 Movie,David M. Rosenthal,"Theo James, Forest Whitaker, Kat Graham, Nicole Ari Parker, Mark O'Brien, Grace Dove","July 13, 2018",2018,2018,113 min,"Action & Adventure, Sci-Fi & Fantasy",,,
 Movie,Tom O'Dell,"George Harrison, John Lennon, Ringo Starr, Paul McCartney, Brian Epstein","February 1, 2018",2018,2017,110 min,"Documentaries, Music & Musicals",,,
-Movie,Ron Howard,"Jim Carrey, Taylor Momsen, Jeffrey Tambor, Christine Baranski, Bill Irwin, Molly Shannon, Clint Howard, Josh Ryan Evans, Mindy Sterling, Anthony Hopkins","June 1, 2017",2017,2000,105 min,"Children & Family Movies, Comedies",Movie,,6.0
+Movie,Ron Howard,"Jim Carrey, Taylor Momsen, Jeffrey Tambor, Christine Baranski, Bill Irwin, Molly Shannon, Clint Howard, Josh Ryan Evans, Mindy Sterling, Anthony Hopkins","June 1, 2017",2017,2000,105 min,"Children & Family Movies, Comedies",Movie,No,6.0
 Movie,Ken Marino,"Eugenio Derbez, Salma Hayek, Rob Lowe, Raphael Alejandro, Kristen Bell, Raquel Welch, Linda Lavin, Renée Taylor, Rob Riggle, Rob Corddry, Rob Huebel, Michael Cera, Michaela Watkins","November 1, 2019",2019,2017,116 min,Comedies,,,
 Movie,Lionel C. Martin,"Bill Bellamy, Natalie Desselle, Lark Voorhies, Mari Morrow, Pierre Edwards, Jermaine 'Huggy' Hopkins, Anthony Johnson, Max Julien, Beverly Johnson, Gilbert Gottfried, Bernie Mac","November 1, 2019",2019,1997,94 min,Comedies,,,
 Movie,Jerry Rothwell,,"January 1, 2016",2016,2015,110 min,"Documentaries, International Movies",,,
@@ -2056,8 +2056,8 @@ Movie,Christopher Guest,Loudon Wainwright III,"November 13, 2018",2018,2018,92 m
 Movie,Louis C.K.,Louis C.K.,"April 4, 2017",2017,2017,74 min,Movies,,,
 Movie,Louis C.K.,Louis C.K.,"September 16, 2016",2016,2010,84 min,Movies,,,
 Movie,Louis C.K.,Louis C.K.,"August 15, 2016",2016,2015,66 min,Movies,,,
-Movie,Gaspar Noé,"Karl Glusman, Klara Kristin, Aomi Muyock, Ugo Fox, Juan Saavedra, Gaspar Noé, Isabelle Nicou, Benoît Debie, Vincent Maraval, Déborah Révy","September 8, 2017",2017,2015,135 min,"Cult Movies, Dramas, Independent Movies",Movie,,23.0
-Movie,"Kabir Bhatia, Titien Wattimena","Acha Septriasa, Darius Sinathrya, Fauzi Baadila, Irwansyah, Laudya Cynthia Bella, Luna Maya, Sophan Sophiaan, Surya Saputra, Widyawati, Wulan Guritno","November 30, 2018",2018,2008,120 min,"Dramas, International Movies, Romantic Movies",Movie,,23.0
+Movie,Gaspar Noé,"Karl Glusman, Klara Kristin, Aomi Muyock, Ugo Fox, Juan Saavedra, Gaspar Noé, Isabelle Nicou, Benoît Debie, Vincent Maraval, Déborah Révy","September 8, 2017",2017,2015,135 min,"Cult Movies, Dramas, Independent Movies",Movie,No,23.0
+Movie,"Kabir Bhatia, Titien Wattimena","Acha Septriasa, Darius Sinathrya, Fauzi Baadila, Irwansyah, Laudya Cynthia Bella, Luna Maya, Sophan Sophiaan, Surya Saputra, Widyawati, Wulan Guritno","November 30, 2018",2018,2008,120 min,"Dramas, International Movies, Romantic Movies",Movie,No,23.0
 Movie,RZA,"Azealia Banks, Lucien Laviscount, Jill Scott, Common, Lorraine Toussaint, Hana Mae Lee, Jeremie Harris","March 1, 2018",2018,2016,106 min,"Dramas, Romantic Movies",,,
 Movie,Pang Ho-cheung,"Miriam Chin Wah Yeung, Shawn Yue, Singh Hartihan Bitto, Yat Ning Chan, Tat-Ming Cheung, Matt Chow, Chui Tien-you, Queenie Chu, Charmaine Fong, Vincent Kok","August 1, 2018",2018,2010,103 min,"Comedies, Dramas, International Movies",,,
 Movie,Cristina Jacob,"Raluca Aprodu, Dragos Bucur, Ducu Darie","June 1, 2019",2019,2015,105 min,"International Movies, Romantic Movies",,,
@@ -2142,7 +2142,7 @@ Movie,Tathagata Banerjee,"Paoli Dam, Parambrata Chattopadhyay, Indrasish Roy, Ko
 Movie,David Gordon Green,"Al Pacino, Holly Hunter, Harmony Korine, Chris Messina, Skylar Gasper, Brian D. Mays, Herculano Trevino, Angela Woods","April 16, 2017",2017,2014,97 min,"Dramas, Independent Movies",,,
 Movie,John Upchurch,"Ram Gopal Bajaj, Pankaj Tripathi, Sameer Kochhar","March 15, 2018",2018,2016,92 min,"Dramas, Independent Movies",,,
 Movie,Tom O'Brien,"Tom O'Brien, Katherine Waterston, Caitlin Fitzgerald, Gaby Hoffmann, Louis Cancelmi, Zach Grenier","September 8, 2017",2017,2014,98 min,"Comedies, Independent Movies, Romantic Movies",,,
-Movie,John Woo,"Zhang Hanyu, Masaharu Fukuyama, Qi Wei, Ji-won Ha, Jun Kunimura, Angeles Woo, Nanami Sakuraba","May 4, 2018",2018,2017,109 min,"Action & Adventure, International Movies",TV Show,,5.0
+Movie,John Woo,"Zhang Hanyu, Masaharu Fukuyama, Qi Wei, Ji-won Ha, Jun Kunimura, Angeles Woo, Nanami Sakuraba","May 4, 2018",2018,2017,109 min,"Action & Adventure, International Movies",TV Show,No,5.0
 Movie,Baljit Singh Deo,"Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Jaggi Singh, B.N. Sharma, Hobby Dhaliwal, Rana Ranbir, Sardar Sohi, Anita Devgan, Harby Sangha","October 1, 2018",2018,2017,136 min,"Comedies, Dramas, International Movies",,,
 Movie,Rahul Ravindran,"Nagarjuna Akkineni, Rakul Preet Singh, Lakshmi, Rao Ramesh, Vennela Kishore, Jhansi, Devadarshini Chetan, Nishanti","September 23, 2019",2019,2019,152 min,"Comedies, Dramas, International Movies",,,
 Movie,Michael Roberts,"Manolo Blahnik, Anna Wintour, André Leon Talley, Paloma Picasso, Candace Bushnell, Iman, Rihanna, Naomi Campbell, Isaac Mizrahi, Rupert Everett, Sofia Coppola, John Galliano","January 15, 2018",2018,2017,89 min,"Documentaries, International Movies",,,
@@ -3524,7 +3524,7 @@ Movie,Oliver Frampton,"Clem Tibber, Elarica Johnson, James Doherty, Shaun Dingwa
 Movie,Toa Fraser,Jossi Wells,"October 1, 2017",2017,2016,84 min,"Documentaries, Sports Movies",,,
 Movie,Rob Burnett,"Paul Rudd, Craig Roberts, Selena Gomez, Jennifer Ehle, Megan Ferguson, Frederick Weller, Bobby Cannavale","June 24, 2016",2016,2016,97 min,"Comedies, Dramas, Independent Movies",,,
 Movie,Raúl Arévalo,"Antonio de la Torre, Luis Callejo, Ruth Díaz, Raúl Jiménez, Manolo Solo, Font García, Pilar Gómez, Alicia Rubio","February 15, 2017",2017,2016,92 min,"International Movies, Thrillers",,,
-Movie,David Fincher,"Michael Douglas, Sean Penn, Deborah Kara Unger, James Rebhorn, Peter Donat, Carroll Baker, Anna Katarina, Armin Mueller-Stahl","November 1, 2019",2019,1997,129 min,Thrillers,TV Show,,2.0
+Movie,David Fincher,"Michael Douglas, Sean Penn, Deborah Kara Unger, James Rebhorn, Peter Donat, Carroll Baker, Anna Katarina, Armin Mueller-Stahl","November 1, 2019",2019,1997,129 min,Thrillers,TV Show,No,2.0
 Movie,Louie Psihoyos,"Arnold Schwarzenegger, Lewis Hamilton, James Wilks, Patrik Baboumian, Scott Jurek, Nimai Delgado, Morgan Mitchell, Rip Esselstyn, Dotsie Bausch, Damien Mander, Michael Thomas, Dr. Dean Ornish, David Goldman","October 16, 2019",2019,2018,86 min,"Documentaries, Sports Movies",,,
 Movie,Makoto Shinkai,"Miyu Irino, Kana Hanazawa, Fumi Hirano, Takeshi Maeda, Yuka Terasaki, Takanori Hoshino, Suguru Inoue, Megumi Han, Mikako Komatsu, Yuki Hayashi","November 15, 2019",2019,2013,46 min,"Anime Features, International Movies, Romantic Movies",,,
 Movie,Nia Dinata,"Cut Mini Theo, Tora Sudiro, Aida Nurmala, Surya Saputra, Rachel Maryam Sayidina, Trey Gondokusumo, Lili Harahap, Aurora Yahya, Wilza Lubis, Nico Siahaan","December 8, 2018",2018,2003,124 min,"Comedies, Dramas, International Movies",,,
